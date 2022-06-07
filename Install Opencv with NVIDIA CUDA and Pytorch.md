@@ -1,5 +1,7 @@
 Instalando OpenCV com NVIDIA CUDA e cuDNN:
 
+    Reference link:
+    
     https://www.youtube.com/watch?v=mNgC9s1Rj60&t=12s&ab_channel=AiNSTEiNSbr
 
 
@@ -21,7 +23,7 @@ Instalando OpenCV com NVIDIA CUDA e cuDNN:
     $ git clone https://github.com/opencv/opencv.git
     $ git clone https://github.com/opencv/opencv_contrib.git
 
-    $ cd opencvo
+    $ cd opencv
     $ mkdir build
     $ cd build
 
