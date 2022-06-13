@@ -24,7 +24,7 @@ Install CUDA Toolki 11.3.1:
 
     Here are commands to install:
 
-    first step install gcc:
+    First step install gcc:
 
     $ sudo apt update
     $ sudo apt upgrade
